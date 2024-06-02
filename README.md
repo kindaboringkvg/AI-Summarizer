@@ -25,24 +25,33 @@ The application is deployed on Netlify. You can visit the live site using the fo
     cd AI-Summarizer
     ```
 
-2. **Install dependencies:**
+2. **Install Vite:**
+    Vite is a fast build tool that is essential for modern web development, especially with frameworks like React.
+    ```sh
+    npm install vite
+    ```
+
+3. **Create a new Vite project:**
+    This command initializes a new Vite project with the latest setup.
+    ```sh
+    npm create vite@latest
+    ```
+
+4. **Install project dependencies:**
     ```sh
     npm install
     ```
 
-3. **Start the development server:**
+5. **Install Tailwind CSS and its dependencies:**
+    Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+    ```sh
+    npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+    ```
+
+6. **Start the development server:**
+    This command starts the Vite development server, allowing you to see your changes in real time.
     ```sh
     npm run dev
-    ```
-
-4. **Build for production:**
-    ```sh
-    npm run build
-    ```
-
-5. **Preview the production build:**
-    ```sh
-    npm run preview
     ```
 
 ## Deployment
@@ -60,5 +69,8 @@ In future iterations, I plan to add a payment gateway to transform this applicat
 ## Contributions
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 ## Contact
-For any inquiries, please contact me at karam.veer00@gmail.com.
+For any inquiries, please contact me at [your-email@example.com](mailto:your-email@example.com).
