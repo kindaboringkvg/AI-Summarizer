@@ -69,8 +69,5 @@ In future iterations, I plan to add a payment gateway to transform this applicat
 ## Contributions
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
-For any inquiries, please contact me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact me at [karam.veer0@gmail.com](mailto:karam.veer0@gmail.com).
